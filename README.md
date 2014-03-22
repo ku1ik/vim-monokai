@@ -10,4 +10,5 @@ Monokai color scheme for Vim converted with [coloration](http://coloration.sicki
 
 Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following line to your `~/.vimrc`:
 
+    syntax enable
     colorscheme monokai
