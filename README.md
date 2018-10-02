@@ -4,7 +4,7 @@ Monokai color scheme for Vim converted with [coloration](http://coloration.sicki
 
 ## Screenshots
 
-![Monokai in Vim](https://cloud.github.com/downloads/sickill/vim-monokai/vim-monokai.png)
+![Monokai in Vim](https://i.imgur.com/NPX2MXM.png)
 
 
 ## Installation
