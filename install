@@ -1,0 +1,5 @@
+set -e
+mkdir -p ~/.vim/colors/
+mv colors/monokai.vim ~/.vim/colors
+echo -e "syntax enable\ncolorscheme monokai" >> ~/.vimrc
+rm -rf ../vim-monokai
