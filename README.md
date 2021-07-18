@@ -10,8 +10,10 @@ Monokai color scheme for Vim converted with [coloration](https://github.com/sick
 ## Installation
 
 You can type this:
-* ```chmod +x install```
-* ```./install```
+```
+chmod +x install
+./install
+```
 
 Or if you want to install it manually:
 
